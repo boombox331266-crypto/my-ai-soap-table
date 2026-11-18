@@ -1,0 +1,29 @@
+{
+  "id": "595d12ef2dd54d5ea391184c12f1986f",
+  "status": "partial",
+  "progress": 100,
+  "message": "Finished with errors",
+  "created_at": 1795007117,
+  "vision_endpoint": "https://api.agnes-ai.cn/v1",
+  "vision_model": "agnes-2.5-flash",
+  "videos": [
+    {
+      "id": "video-01",
+      "index": 1,
+      "original_name": "sheep.mp4",
+      "stored_name": "01_sheep.mp4",
+      "stored_path": "D:\\my ai soap table\\runtime\\jobs\\595d12ef2dd54d5ea391184c12f1986f\\uploads\\01_sheep.mp4",
+      "status": "error",
+      "message": "Vision API 401: {\"error\":{\"code\":\"\",\"message\":\"未提供令牌 (request id: 202611181305595126663743c0aKfqu)\",\"type\":\"AgnesAI_error\"}}"
+    },
+    {
+      "id": "video-02",
+      "index": 2,
+      "original_name": "11.mp4",
+      "stored_name": "02_11.mp4",
+      "stored_path": "D:\\my ai soap table\\runtime\\jobs\\595d12ef2dd54d5ea391184c12f1986f\\uploads\\02_11.mp4",
+      "status": "error",
+      "message": "Vision API 401: {\"error\":{\"code\":\"\",\"message\":\"未提供令牌 (request id: 20261118130600163641524lW1j135s)\",\"type\":\"AgnesAI_error\"}}"
+    }
+  ]
+}

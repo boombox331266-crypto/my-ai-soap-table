@@ -1,0 +1,85 @@
+{
+  "ok": true,
+  "engine": "OpenAI Whisper",
+  "model": "small",
+  "language": "zh",
+  "device": "cpu",
+  "files": [
+    {
+      "video": "D:\\my ai soap table\\runtime\\jobs\\595d12ef2dd54d5ea391184c12f1986f\\uploads\\01_sheep.mp4",
+      "srt": "D:\\my ai soap table\\runtime\\jobs\\595d12ef2dd54d5ea391184c12f1986f\\subtitles\\01_sheep.srt",
+      "status": "generated",
+      "ok": true,
+      "duration": 8.042,
+      "cue_count": 4,
+      "cues": [
+        {
+          "index": 1,
+          "start": 0.0,
+          "end": 1.24,
+          "text": "二舅香喷喷"
+        },
+        {
+          "index": 2,
+          "start": 2.02,
+          "end": 3.76,
+          "text": "大姨也不赖"
+        },
+        {
+          "index": 3,
+          "start": 4.68,
+          "end": 6.4,
+          "text": "这是什么够食东西"
+        },
+        {
+          "index": 4,
+          "start": 6.4,
+          "end": 7.2,
+          "text": "这也能吃"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "video": "D:\\my ai soap table\\runtime\\jobs\\595d12ef2dd54d5ea391184c12f1986f\\uploads\\02_11.mp4",
+      "srt": "D:\\my ai soap table\\runtime\\jobs\\595d12ef2dd54d5ea391184c12f1986f\\subtitles\\02_11.srt",
+      "status": "generated",
+      "ok": true,
+      "duration": 10.301,
+      "cue_count": 5,
+      "cues": [
+        {
+          "index": 1,
+          "start": 1.44,
+          "end": 2.6,
+          "text": "来十斤狗肉"
+        },
+        {
+          "index": 2,
+          "start": 4.06,
+          "end": 5.36,
+          "text": "哎没了"
+        },
+        {
+          "index": 3,
+          "start": 5.36,
+          "end": 6.42,
+          "text": "这不是带了吗"
+        },
+        {
+          "index": 4,
+          "start": 7.02,
+          "end": 8.86,
+          "text": "狗福留着晚上要用"
+        },
+        {
+          "index": 5,
+          "start": 9.44,
+          "end": 10.08,
+          "text": "来十斤"
+        }
+      ],
+      "errors": []
+    }
+  ]
+}
